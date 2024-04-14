@@ -1,0 +1,6 @@
+C:\Users\Omar\source\repos\my projects\HR_Hammoud Company\DataAccessLayer_HrHammoud\bin\Release\DataAccessLayer_HrHammoud.dll
+C:\Users\Omar\source\repos\my projects\HR_Hammoud Company\DataAccessLayer_HrHammoud\bin\Release\DataAccessLayer_HrHammoud.pdb
+C:\Users\Omar\source\repos\my projects\HR_Hammoud Company\DataAccessLayer_HrHammoud\obj\Release\DataAccessLayer_HrHammoud.csproj.AssemblyReference.cache
+C:\Users\Omar\source\repos\my projects\HR_Hammoud Company\DataAccessLayer_HrHammoud\obj\Release\DataAccessLayer_HrHammoud.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\my projects\HR_Hammoud Company\DataAccessLayer_HrHammoud\obj\Release\DataAccessLayer_HrHammoud.dll
+C:\Users\Omar\source\repos\my projects\HR_Hammoud Company\DataAccessLayer_HrHammoud\obj\Release\DataAccessLayer_HrHammoud.pdb

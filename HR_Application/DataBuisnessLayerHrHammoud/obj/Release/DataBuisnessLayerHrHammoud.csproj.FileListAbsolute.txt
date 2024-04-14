@@ -1,0 +1,9 @@
+C:\Users\Omar\source\repos\my projects\HR_Hammoud Company\DataBuisnessLayerHrHammoud\bin\Release\DataBuisnessLayerHrHammoud.dll
+C:\Users\Omar\source\repos\my projects\HR_Hammoud Company\DataBuisnessLayerHrHammoud\bin\Release\DataBuisnessLayerHrHammoud.pdb
+C:\Users\Omar\source\repos\my projects\HR_Hammoud Company\DataBuisnessLayerHrHammoud\bin\Release\DataAccessLayer_HrHammoud.dll
+C:\Users\Omar\source\repos\my projects\HR_Hammoud Company\DataBuisnessLayerHrHammoud\bin\Release\DataAccessLayer_HrHammoud.pdb
+C:\Users\Omar\source\repos\my projects\HR_Hammoud Company\DataBuisnessLayerHrHammoud\obj\Release\DataBuisnessLayerHrHammoud.csproj.AssemblyReference.cache
+C:\Users\Omar\source\repos\my projects\HR_Hammoud Company\DataBuisnessLayerHrHammoud\obj\Release\DataBuisnessLayerHrHammoud.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\my projects\HR_Hammoud Company\DataBuisnessLayerHrHammoud\obj\Release\DataBuis.8CC91B6A.Up2Date
+C:\Users\Omar\source\repos\my projects\HR_Hammoud Company\DataBuisnessLayerHrHammoud\obj\Release\DataBuisnessLayerHrHammoud.dll
+C:\Users\Omar\source\repos\my projects\HR_Hammoud Company\DataBuisnessLayerHrHammoud\obj\Release\DataBuisnessLayerHrHammoud.pdb

@@ -1,0 +1,18 @@
+C:\Users\Omar\source\repos\my projects\DataAccessLayer_HrHammoud\bin\Debug\DataAccessLayer_HrHammoud.dll
+C:\Users\Omar\source\repos\my projects\DataAccessLayer_HrHammoud\bin\Debug\DataAccessLayer_HrHammoud.pdb
+C:\Users\Omar\source\repos\my projects\DataAccessLayer_HrHammoud\obj\Debug\DataAccessLayer_HrHammoud.csproj.AssemblyReference.cache
+C:\Users\Omar\source\repos\my projects\DataAccessLayer_HrHammoud\obj\Debug\DataAccessLayer_HrHammoud.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\my projects\DataAccessLayer_HrHammoud\obj\Debug\DataAccessLayer_HrHammoud.dll
+C:\Users\Omar\source\repos\my projects\DataAccessLayer_HrHammoud\obj\Debug\DataAccessLayer_HrHammoud.pdb
+C:\Users\Omar\source\repos\HR_Hammoud Company\DataAccessLayer_HrHammoud\bin\Debug\DataAccessLayer_HrHammoud.dll
+C:\Users\Omar\source\repos\HR_Hammoud Company\DataAccessLayer_HrHammoud\bin\Debug\DataAccessLayer_HrHammoud.pdb
+C:\Users\Omar\source\repos\HR_Hammoud Company\DataAccessLayer_HrHammoud\obj\Debug\DataAccessLayer_HrHammoud.csproj.AssemblyReference.cache
+C:\Users\Omar\source\repos\HR_Hammoud Company\DataAccessLayer_HrHammoud\obj\Debug\DataAccessLayer_HrHammoud.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\HR_Hammoud Company\DataAccessLayer_HrHammoud\obj\Debug\DataAccessLayer_HrHammoud.dll
+C:\Users\Omar\source\repos\HR_Hammoud Company\DataAccessLayer_HrHammoud\obj\Debug\DataAccessLayer_HrHammoud.pdb
+C:\Users\Omar\source\repos\my projects\HR_Hammoud Company\DataAccessLayer_HrHammoud\bin\Debug\DataAccessLayer_HrHammoud.dll
+C:\Users\Omar\source\repos\my projects\HR_Hammoud Company\DataAccessLayer_HrHammoud\bin\Debug\DataAccessLayer_HrHammoud.pdb
+C:\Users\Omar\source\repos\my projects\HR_Hammoud Company\DataAccessLayer_HrHammoud\obj\Debug\DataAccessLayer_HrHammoud.csproj.AssemblyReference.cache
+C:\Users\Omar\source\repos\my projects\HR_Hammoud Company\DataAccessLayer_HrHammoud\obj\Debug\DataAccessLayer_HrHammoud.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\my projects\HR_Hammoud Company\DataAccessLayer_HrHammoud\obj\Debug\DataAccessLayer_HrHammoud.dll
+C:\Users\Omar\source\repos\my projects\HR_Hammoud Company\DataAccessLayer_HrHammoud\obj\Debug\DataAccessLayer_HrHammoud.pdb
